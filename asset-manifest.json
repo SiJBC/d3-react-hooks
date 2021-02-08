@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SiJBC/d3-react-hooks/static/css/main.4395650f.chunk.css",
+    "main.js": "/SiJBC/d3-react-hooks/static/js/main.6e33cd28.chunk.js",
+    "main.js.map": "/SiJBC/d3-react-hooks/static/js/main.6e33cd28.chunk.js.map",
+    "runtime-main.js": "/SiJBC/d3-react-hooks/static/js/runtime-main.d3d4d4f3.js",
+    "runtime-main.js.map": "/SiJBC/d3-react-hooks/static/js/runtime-main.d3d4d4f3.js.map",
+    "static/js/2.bc9adcca.chunk.js": "/SiJBC/d3-react-hooks/static/js/2.bc9adcca.chunk.js",
+    "static/js/2.bc9adcca.chunk.js.map": "/SiJBC/d3-react-hooks/static/js/2.bc9adcca.chunk.js.map",
+    "static/js/3.b601efbb.chunk.js": "/SiJBC/d3-react-hooks/static/js/3.b601efbb.chunk.js",
+    "static/js/3.b601efbb.chunk.js.map": "/SiJBC/d3-react-hooks/static/js/3.b601efbb.chunk.js.map",
+    "index.html": "/SiJBC/d3-react-hooks/index.html",
+    "static/css/main.4395650f.chunk.css.map": "/SiJBC/d3-react-hooks/static/css/main.4395650f.chunk.css.map",
+    "static/js/2.bc9adcca.chunk.js.LICENSE.txt": "/SiJBC/d3-react-hooks/static/js/2.bc9adcca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3d4d4f3.js",
+    "static/js/2.bc9adcca.chunk.js",
+    "static/css/main.4395650f.chunk.css",
+    "static/js/main.6e33cd28.chunk.js"
+  ]
+}
